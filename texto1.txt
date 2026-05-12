@@ -1,6 +1,6 @@
 Chocolates:
 
-Kinder Bueno
-Kit Kat
-Bis
-Trento
+Kinder Bueno, R$ 14,00
+Kit Kat, R$6,00
+Bis, R$6,99
+Trento, R$4,50
